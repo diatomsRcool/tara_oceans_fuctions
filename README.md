@@ -1,2 +1,5 @@
 # tara_oceans_functions
-Repository for trying out hypotheses and preliminary analyses using Tara Oceans data
+
+Repository for trying out hypotheses and preliminary analyses using Tara Oceans data. These data came from http://ocean-microbiome.embl.de/companion.html.
+
+The test_data.txt is the output file. The header row for that file is Gene_id Sample_id Pangaea_sample_id datetime  latitude  longitude depth ENVO  MRGID kegg_id function  function_notes  Mean_Date [YY/MM/DD hh:mm]*	Mean_Lat*	Mean_Long*	Mean_Depth [m]*	Mean_Temperature [deg C]*	Mean_Salinity [PSU]*	Mean_Oxygen [umol/kg]*	Mean_Nitrates[umol/L]*	NO2 [umol/L]**	PO4 [umol/L]**	NO2NO3 [umol/L]**	SI [umol/L]**	"AMODIS:PAR8d,Einsteins/m-2/d-1"	Okubo-Weiss	Lyapunov_exp.	grad_SST_adv	retention	Mean Depth MLD Sigma [m]*	Mean Depth Max Fluo [m]*	Mean Depth Max N2 [m]*	Mean Depth Max O2 [m]*	Mean Depth Min O2 [m]*	Mean Depth Nitracline [m]*	miTAG.SILVA.Taxo.Richness	miTAG.SILVA.Phylo.Diversity	miTAG.SILVA.Chao	miTAG.SILVA.ace	miTAG.SILVA.Shannon	OG.Shannon	OG.Richness	OG.Evenness	FC - heterotrophs [cells/mL]	FC - autotrophs [cells/mL]	FC - bacteria [cells/mL]	FC - picoeukaryotes [cells/mL]	minimum generation time [h]
